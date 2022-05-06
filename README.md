@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Mohand
-- 👀 I’m interested in Flutter Mobile Developement
-- 🌱 I’m currently learning Flutter 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Here on github
+- 🌱 I’m currently learning web development 
 
 <!---
 Mohand2/Mohand2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
