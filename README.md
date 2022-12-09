@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react,html and css**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a href='https://twitter.com/Mohand3d'>@mohand3d<a/></h3>
 <p align="left">
 </p>
 
